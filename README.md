@@ -3,4 +3,5 @@ kb
 
 A Public Knowledge Base.
 
-Lives in this project's wiki: https://github.com/lenary/kb/wiki
+- [Erlang Web Libraies & Frameworks](Erlang-Web-Libraries---Frameworks.md) (August 2011)
+
